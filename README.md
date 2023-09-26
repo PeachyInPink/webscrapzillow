@@ -1,6 +1,6 @@
-# webscrapzillow
+#Rockies Real Estate Rumble¶
 
-Rockies Real Estate Rumble¶
+
 The Start:
 
 One idyllic Saturday morning, as my iced vanilla matcha latte was doing its best to perk me up, a New York Times article with something along the lines of "Half of Gen Z thinks they need to win the lottery to buy a home" [1] almost made me spit out my coffee. If that's not a wake-up call, I don’t know what is.
