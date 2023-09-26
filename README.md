@@ -1,4 +1,4 @@
-#Rockies Real Estate Rumble¶
+Rockies Real Estate Rumble
 
 
 The Start:
