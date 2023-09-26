@@ -25,7 +25,7 @@ The chatter around town is that these places are the next big thing for young fa
 
 # Executive Summary
 
-Utilized Selenium for web scraping to collect house listings data from Zillow, covering a wide range of 47 zip codes across five distinct cities in Colorado.
+* Utilized Selenium for web scraping to collect house listings data from Zillow, covering a wide range of 47 zip codes across five distinct cities in Colorado.
 
 Compiled median house prices for these cities, revealing Arvada at $680,000, Aurora at $525,000, Lakewood at $640,000, Littleton at $741,200, and Westminster at $560,250.
 
