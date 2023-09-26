@@ -23,7 +23,7 @@ Lakewood: Lakes? Check. Woods? Check. The dream Colorado vibes? Double-check.
 
 The chatter around town is that these places are the next big thing for young families seeking affordability without skimping on the perks of suburban living.
 
-## Executive Summary
+# Executive Summary
 
 Utilized Selenium for web scraping to collect house listings data from Zillow, covering a wide range of 47 zip codes across five distinct cities in Colorado.
 
