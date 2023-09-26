@@ -47,6 +47,4 @@ The chatter around town is that these places are the next big thing for young fa
 
 Finally, based on the data, I think Littleton has the most potential!
 
-![image](https://github.com/PeachyInPink/webscrapzillow/assets/115643249/975d4365-5b7e-4150-914c-0795b6913823)
-
 
