@@ -27,22 +27,22 @@ The chatter around town is that these places are the next big thing for young fa
 
 * Utilized Selenium for web scraping to collect house listings data from Zillow, covering a wide range of 47 zip codes across five distinct cities in Colorado.
 
-Compiled median house prices for these cities, revealing Arvada at $680,000, Aurora at $525,000, Lakewood at $640,000, Littleton at $741,200, and Westminster at $560,250.
+* Compiled median house prices for these cities, revealing Arvada at $680,000, Aurora at $525,000, Lakewood at $640,000, Littleton at $741,200, and Westminster at $560,250.
 
-Augmented the house listings data by scouting for high-ranking schools near potential properties. Obtained a list of top 50 zip codes with the best public schools in Colorado, and cross-referenced it with the house listings to identify 18 zip codes with houses on sale in proximity to top-ranked schools.
+* Augmented the house listings data by scouting for high-ranking schools near potential properties. Obtained a list of top 50 zip codes with the best public schools in Colorado, and cross-referenced it with the house listings to identify 18 zip codes with houses on sale in proximity to top-ranked schools.
 
-Highlighted the zip codes in Arvada and Aurora that had the highest education rankings, in particular Aurora's 80016 with a rank of 7.
+* Highlighted the zip codes in Arvada and Aurora that had the highest education rankings, in particular Aurora's 80016 with a rank of 7.
 
-Evaluated median zip code values with respect to median prices, identifying the highest value in Littleton at 2394sqft.
+* Evaluated median zip code values with respect to median prices, identifying the highest value in Littleton at 2394sqft.
 
-Investigated the regulations and returns of Accessory Dwelling Units (ADU) across all five cities, identifying Littleton as the most favorable with a median price of $792,000 for a garage conversion with 2898 sqft in total.
+* Investigated the regulations and returns of Accessory Dwelling Units (ADU) across all five cities, identifying Littleton as the most favorable with a median price of $792,000 for a garage conversion with 2898 sqft in total.
 
-Explored median house prices versus zip codes independently, identifying the lowest-priced houses in Aurora (80220) at median price $194k.
+* Explored median house prices versus zip codes independently, identifying the lowest-priced houses in Aurora (80220) at median price $194k.
 
-Executed data encoding for categorical and numerical variables, implemented multilinear regression, and feature engineering for price prediction. Utilized a RANSACRegressor achieving a Root Mean Squared Error (RMSE) of $73k.
+* Executed data encoding for categorical and numerical variables, implemented multilinear regression, and feature engineering for price prediction. Utilized a RANSACRegressor achieving a Root Mean Squared Error (RMSE) of $73k.
 
-Enhanced the prediction model by employing a pipeline of encoding, scaling, and regression with a GradientBoostingRegressor, effectively reducing the RMSE to $63k.
+* Enhanced the prediction model by employing a pipeline of encoding, scaling, and regression with a GradientBoostingRegressor, effectively reducing the RMSE to $63k.
 
-Identified potential improvements including real-time data integration, exploring alternate predictive models, and incorporating granular data like neighborhood crime rates for a more comprehensive and insightful analysis.
+* Identified potential improvements including real-time data integration, exploring alternate predictive models, and incorporating granular data like neighborhood crime rates for a more comprehensive and insightful analysis.
 
 Finally, based on the data, I think Littleton has the most potential!
