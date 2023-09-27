@@ -31,7 +31,7 @@ The chatter around town is that these places are the next big thing for young fa
 
 * Augmented the house listings data by scouting for high-ranking schools near potential properties. Obtained a list of top 50 zip codes with the best public schools in Colorado, and cross-referenced it with the house listings to identify 18 zip codes with houses on sale in proximity to top-ranked schools.
 
-* Highlighted the zip codes in Arvada and Aurora that had the highest education rankings, in particular Aurora's 80016 with a rank of 7.
+* Highlighted the zip codes in Littleton and Aurora that had the highest education rankings, in particular Littleton's 80121 with a rank of 5 and Aurora's 80016 with a rank of 7.
 
 * Evaluated median zip code values with respect to median prices, identifying the highest value in Littleton at 2394sqft.
 
